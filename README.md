@@ -8,7 +8,7 @@
 </a>
 <a href="#sponsors" alt="Sponsors on Open Collective">
   <img src="https://opencollective.com/xcproj/sponsors/badge.svg"/>
-</a> 
+</a>
 <a href="https://swift.org/package-manager">
 <img src="https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=flat" alt="Swift Package Manager"/>
 </a>
@@ -148,7 +148,7 @@ You can check out the documentation on the following [link](https://xcodeswift.g
 ## Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute]](CONTRIBUTING.md).
-<a href="graphs/contributors"><img src="https://opencollective.com/xcproj/contributors.svg?width=890" /></a>
+<a href="https://github.com/xcodeswift/xcproj/graphs/contributors"><img src="https://opencollective.com/xcproj/contributors.svg?width=890" /></a>
 
 
 ## Backers
